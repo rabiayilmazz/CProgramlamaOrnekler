@@ -1,4 +1,4 @@
-'''C
+''' C
 # c#include <stdio.h>
 #include <stdlib.h>
 // girilen sayıya kadar çift ve tek sayıları ayıran kod
