@@ -1,5 +1,3 @@
-```
-
 #include <stdio.h>
 #include <stdlib.h>
 // girilen sayıya kadar çift ve tek sayıları ayıran kod
@@ -41,5 +39,3 @@ int main(int argc, char *argv[]) {
     }
 return 0;
 }
-
-```
