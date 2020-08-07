@@ -1,5 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
+/*
+bu kod ile girilen değerde
+   *
+  ***
+ *****
+  ***
+   *
+ şeklinde bir çıktı üretmek amaçlanmıştır.
+ */
 
 int main ()
 {
