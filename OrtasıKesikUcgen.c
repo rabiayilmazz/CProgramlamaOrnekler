@@ -1,6 +1,6 @@
 #include <cs50.h>
 #include <stdio.h>
-
+// yıldızlı üçgen oluşturur fakat en tepedeki * sütunu siliktir.
 int main(void)
 {
     int h = 0;
